@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nkjnkjnl
+=======
+jopihoihih;
+>>>>>>> ad69b0bf72a5ab0317a12be33d007f4783003565
